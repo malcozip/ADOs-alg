@@ -1,2 +1,1 @@
-# ADOs-alg
-ADOs de algoritmos e programação
+# ADOs da matéria de algoritmos e programação
